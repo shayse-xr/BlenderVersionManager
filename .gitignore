@@ -1,0 +1,7 @@
+# Ignore build and distribution files
+/build/
+/dist/
+*.dmg
+*.zip
+*.tar.xz
+
