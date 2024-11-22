@@ -20,8 +20,8 @@ The Blenders application is available for download on various platforms. It allo
 
 ### Download Links
 - [Download for macOS](https://github.com/yourusername/blenders/releases/latest)
-- [Download for Windows - COMING SOON](https://github.com/yourusername/blenders/releases/latest)
-- [Download for Linux - COMING SOON](https://github.com/yourusername/blenders/releases/latest)
+- Download for Windows - COMING SOON
+- Download for Linux - COMING SOON
 
 ### Installation Instructions
 1. Download the installer for your platform.
@@ -111,5 +111,5 @@ If you encounter any issues or have questions, please:
 
 ---
 
-Made with <3 by @shayse-xr / [shaysegal.co](https://shaysegal.co)
+Made by @shayse-xr / [shaysegal.co](https://shaysegal.co)
 
