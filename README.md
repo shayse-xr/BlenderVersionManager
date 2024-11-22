@@ -2,7 +2,7 @@
 
 The simplest way to download, install, and switch between Blender versions.
 
-![Blender Version Manager Screenshot](blenders.mov)
+![](blenders.mp4)
 
 ## Features
 
