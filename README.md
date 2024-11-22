@@ -12,14 +12,14 @@ The simplest way to download, install, and switch between Blender versions.
 - Cross-platform support (Windows, macOS, Linux)
 - Automatic version detection and updates
 
-## Downloadable App
+## Download the App
 
 The Blenders application is available for download on various platforms. It allows users to manage multiple Blender installations seamlessly.
 
 ### Download Links
-- [Download for Windows](https://github.com/yourusername/blenders/releases/latest)
 - [Download for macOS](https://github.com/yourusername/blenders/releases/latest)
-- [Download for Linux](https://github.com/yourusername/blenders/releases/latest)
+- [Download for Windows - COMING SOON](https://github.com/yourusername/blenders/releases/latest)
+- [Download for Linux - COMING SOON](https://github.com/yourusername/blenders/releases/latest)
 
 ### Installation Instructions
 1. Download the installer for your platform.
@@ -34,7 +34,7 @@ The Blenders application is available for download on various platforms. It allo
 ### Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/blenders.git
+git clone git@github.com:shayse-xr/BlenderVersionManager.git
 cd blenders
 ```
 
@@ -82,21 +82,9 @@ blender-version-manager/
 └── README.md
 ```
 
-### Building from Source
-1. Clone the repository
-2. Install development dependencies:
-```bash
-pip install -r requirements-dev.txt
-```
-
-3. Run tests:
-```bash
-python -m pytest tests/
-```
-
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Please feel free to submit a Pull Request.
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -110,16 +98,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Blender Foundation for their amazing 3D software
+- Blender Foundation for their 3D software
 - PyQt6 for the GUI framework
 
 ## Support
 
 If you encounter any issues or have questions, please:
-1. Check the [Issues](https://github.com/yourusername/blender-version-manager/issues) page
+1. Check the [Issues](https://github.com/shayse-xr/BlenderVersionManager/issues) page
 2. Create a new issue if your problem isn't already listed
 
 ---
 
-Made with ❤️ by @shayse-xr / shaysegal.co
+Made with <3 by @shayse-xr / [shaysegal.co](https://shaysegal.co)
 
