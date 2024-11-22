@@ -2,7 +2,9 @@
 
 The simplest way to download, install, and switch between Blender versions.
 
-[](blenders.mp4)
+## Preview
+
+![Preview](blenders.mp4)
 
 ## Features
 
