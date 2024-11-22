@@ -19,7 +19,7 @@ The simplest way to download, install, and switch between Blender versions.
 The Blenders application is available for download on various platforms. It allows users to manage multiple Blender installations seamlessly.
 
 ### Download Links
-- [Download for macOS](https://github.com/yourusername/blenders/releases/latest)
+- [Download for macOS](https://github.com/shayse-xr/BlenderVersionManager/releases)
 - Download for Windows - COMING SOON
 - Download for Linux - COMING SOON
 
