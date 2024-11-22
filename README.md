@@ -4,7 +4,7 @@ The simplest way to download, install, and switch between Blender versions.
 
 ## Preview
 
-![](public/blenders.mp4)
+![](public/blenders.gif)
 
 ## Features
 
